@@ -1,15 +1,9 @@
 # Student Management System Created Using Django
 This is a Simple Student Management System Developed While Learning Django.
-Feel free to make changes based on your requirements.
+
 
 [Front-end Template](http://adminlte.io "Admin LTE.io")
 
-
-[Project Demo on YouTube](https://www.youtube.com/watch?v=kArCR96m7uo "Django Student Management System Demo")
-
-And if you like this project, then ADD a STAR ⭐️  to this project 👆
-## Deployed to
-https://smswithdjango.herokuapp.com/
 
 
 ## Features of this Project
@@ -59,9 +53,9 @@ https://smswithdjango.herokuapp.com/
 
 
 
-## Support Developer
+## Support me,
 1. Add a Star 🌟  to this 👆 Repository
-2. Follow on Twitter/Github
+2. Follow on Github
 
 
 ## Passport/Images
@@ -98,14 +92,6 @@ For Windows
 ```
 $  python -m venv venv
 ```
-For Mac
-```
-$  python3 -m venv venv
-```
-For Linux
-```
-$  virtualenv .
-```
 
 Activate Virtual Environment
 
@@ -113,21 +99,7 @@ For Windows
 ```
 $  source venv/scripts/activate
 ```
-
-For Mac
-```
-$  source venv/bin/activate
-```
-
-For Linux
-```
-$  source bin/activate
-```
-
-**3. Clone this project**
-```
-$  git clone https://github.com/jobic10/student-management-using-django.git
-```
+#download or clone this project 
 
 Then, Enter the project
 ```
@@ -156,15 +128,6 @@ Command for PC:
 $ python manage.py runserver
 ```
 
-Command for Mac:
-```python
-$ python3 manage.py runserver
-```
-
-Command for Linux:
-```python
-$ python3 manage.py runserver
-```
 
 **7. Login Credentials**
 
@@ -172,16 +135,6 @@ Create Super User (HOD)
 Command for PC:
 ```
 $  python manage.py createsuperuser
-```
-
-Command for Mac:
-```
-$  python3 manage.py createsuperuser
-```
-
-Command for Linux:
-```
-$  python3 manage.py createsuperuser
 ```
 
 
@@ -201,13 +154,6 @@ Password: staff
 *For Student*
 Email: student@student.com
 Password: student
-
-
-
-## For Sponsor or Projects Enquiry
-1. Email - jobowonubi@gmail.com
-2. LinkedIn - [jobic10](https://www.linkedin.com/in/jobic10 "Owonubi Job Sunday on LinkedIn")
-2. Twitter - [jobic10](https://www.twitter.com/jobic10 "Owonubi Job Sunday on Twitter")
 
 
 
